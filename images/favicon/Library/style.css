@@ -1,0 +1,11 @@
+.logo{
+	
+	background: url('cinder-logo-trans.png') no-repeat 50% 50%;
+	background-size: 100% auto;
+	text-indent: -9999px;
+	padding-top: 18%;
+	display: block;
+	margin: 20px auto;
+	clear:both;
+	
+}

@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>accounts</key>
+	<array>
+		<dict>
+			<key>IAMailOutgoingAuthenticationType</key>
+			<string>IAAuthSchemeClearText</string>
+			<key>IAMailOutgoingPortKey</key>
+			<integer>587</integer>
+			<key>IAMailOutgoingUserNameKey</key>
+			<string>elena.a.barrio@gmail.com</string>
+			<key>accountDescription</key>
+			<string>Google</string>
+			<key>authenticationType</key>
+			<string>IAAuthSchemeClearText</string>
+			<key>cachedUID</key>
+			<string>D0AB9CCE-5AC6-4592-A965-BCF08FA5B658</string>
+			<key>com.apple.InternetAccounts.childAccounts</key>
+			<array>
+				<dict>
+					<key>IAAccountTypeKey</key>
+					<string>kIAServiceIMAP</string>
+					<key>_originalSettings</key>
+					<string>{
+    IAAccountTypeKey = kIAServiceIMAP;
+    accountDescription = Google;
+    authenticationType = IAAuthSchemeClearText;
+    emailAddr = "elena.a.barrio@gmail.com";
+    emailAddress = "elena.a.barrio@gmail.com";
+    fullName = "Elena Barrio";
+    inactive = 0;
+    incomingMailServer = "imap.gmail.com";
+    incomingUseSSL = 1;
+    password = "**";
+    port = 993;
+    userName = "elena.a.barrio";
+}</string>
+					<key>accountDescription</key>
+					<string>Google</string>
+					<key>authenticationType</key>
+					<string>IAAuthSchemeClearText</string>
+					<key>cachedUID</key>
+					<string>x-coredata://77908324-715A-4E20-BAD7-B724BE18F8BB/IMAPAccount/p1</string>
+					<key>com.apple.InternetAccounts.loginName</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>com.apple.InternetAccounts.provider</key>
+					<string>com.apple.account.notes</string>
+					<key>emailAddress</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>fullName</key>
+					<string>Elena Barrio</string>
+					<key>incomingMailServer</key>
+					<string>imap.gmail.com</string>
+					<key>incomingUseSSL</key>
+					<true/>
+					<key>port</key>
+					<integer>993</integer>
+					<key>userName</key>
+					<string>elena.a.barrio</string>
+				</dict>
+				<dict>
+					<key>IAAccountTypeKey</key>
+					<string>kIAServiceIMAP</string>
+					<key>IAMailOutgoingAuthenticationType</key>
+					<string>IAAuthSchemeClearText</string>
+					<key>IAMailOutgoingPortKey</key>
+					<integer>587</integer>
+					<key>IAMailOutgoingUserNameKey</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>_originalSettings</key>
+					<string>{
+    IAAccountTypeKey = kIAServiceIMAP;
+    IAMailOutgoingAuthenticationType = IAAuthSchemeClearText;
+    IAMailOutgoingPasswordKey = "**";
+    IAMailOutgoingPortKey = 587;
+    IAMailOutgoingUserNameKey = "elena.a.barrio@gmail.com";
+    accountDescription = Google;
+    authenticationType = IAAuthSchemeClearText;
+    emailAddr = "elena.a.barrio@gmail.com";
+    emailAddress = "elena.a.barrio@gmail.com";
+    fullName = "Elena Barrio";
+    inactive = 0;
+    incomingMailServer = "imap.gmail.com";
+    incomingUseSSL = 1;
+    outgoingMailServer = "smtp.gmail.com";
+    outgoingUseSSL = 1;
+    password = "**";
+    port = 993;
+    userName = "elena.a.barrio";
+}</string>
+					<key>accountDescription</key>
+					<string>Google</string>
+					<key>authenticationType</key>
+					<string>IAAuthSchemeClearText</string>
+					<key>cachedUID</key>
+					<string>BB6ACE66-8EE6-4B09-87B4-19CA89BF8B0C</string>
+					<key>com.apple.InternetAccounts.loginName</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>com.apple.InternetAccounts.provider</key>
+					<string>com.apple.account.mail</string>
+					<key>emailAddress</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>fullName</key>
+					<string>Elena Barrio</string>
+					<key>incomingMailServer</key>
+					<string>imap.gmail.com</string>
+					<key>incomingUseSSL</key>
+					<true/>
+					<key>outgoingMailServer</key>
+					<string>smtp.gmail.com</string>
+					<key>outgoingUseSSL</key>
+					<true/>
+					<key>port</key>
+					<integer>993</integer>
+					<key>userName</key>
+					<string>elena.a.barrio</string>
+				</dict>
+				<dict>
+					<key>IAAccountTypeKey</key>
+					<string>kIAServiceCalDAV</string>
+					<key>_originalSettings</key>
+					<string>{
+    IAAccountTypeKey = kIAServiceCalDAV;
+    accountDescription = Google;
+    emailAddress = "elena.a.barrio@gmail.com";
+    fullName = "Elena Barrio";
+    inactive = 0;
+    password = "**";
+    port = 443;
+    principalPath = "/calendar/dav/elena.a.barrio%40gmail.com/user/";
+    principalURL = "/calendar/dav/elena.a.barrio%40gmail.com/user/ -- https://calendar.google.com/";
+    serverAddress = "calendar.google.com";
+    useSSL = 1;
+    userName = "elena.a.barrio@gmail.com";
+}</string>
+					<key>accountDescription</key>
+					<string>Google</string>
+					<key>cachedUID</key>
+					<string>7E86B481-E75F-42B4-9147-D29DC2406AEE-com.apple.calendar.iaplugin</string>
+					<key>com.apple.InternetAccounts.loginName</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>com.apple.InternetAccounts.provider</key>
+					<string>com.apple.account.ical</string>
+					<key>emailAddress</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>fullName</key>
+					<string>Elena Barrio</string>
+					<key>port</key>
+					<integer>443</integer>
+					<key>principalPath</key>
+					<string>/calendar/dav/elena.a.barrio%40gmail.com/user/</string>
+					<key>principalURL</key>
+					<dict>
+						<key>__url</key>
+						<string>https://calendar.google.com/calendar/dav/elena.a.barrio%40gmail.com/user/</string>
+					</dict>
+					<key>serverAddress</key>
+					<string>calendar.google.com</string>
+					<key>useSSL</key>
+					<true/>
+					<key>userName</key>
+					<string>elena.a.barrio@gmail.com</string>
+				</dict>
+				<dict>
+					<key>IAAccountTypeKey</key>
+					<string>kIAServiceCardDAV</string>
+					<key>_originalSettings</key>
+					<string>{
+    IAAccountTypeKey = kIAServiceCardDAV;
+    accountDescription = Google;
+    emailAddr = "elena.a.barrio@gmail.com";
+    emailAddress = "elena.a.barrio@gmail.com";
+    inactive = 0;
+    password = "**";
+    serverAddress = "google.com";
+    useSSL = 1;
+    userName = "elena.a.barrio@gmail.com";
+}</string>
+					<key>accountDescription</key>
+					<string>Google</string>
+					<key>cachedUID</key>
+					<string>E0673D83-E63C-4D2E-93D8-432CCACF0E0B</string>
+					<key>com.apple.InternetAccounts.loginName</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>com.apple.InternetAccounts.provider</key>
+					<string>com.apple.account.addressbook</string>
+					<key>emailAddress</key>
+					<string>elena.a.barrio@gmail.com</string>
+					<key>serverAddress</key>
+					<string>google.com</string>
+					<key>useSSL</key>
+					<true/>
+					<key>userName</key>
+					<string>elena.a.barrio@gmail.com</string>
+				</dict>
+			</array>
+			<key>com.apple.InternetAccounts.loginName</key>
+			<string>elena.a.barrio@gmail.com</string>
+			<key>com.apple.InternetAccounts.provider</key>
+			<string>com.apple.account.google</string>
+			<key>emailAddress</key>
+			<string>elena.a.barrio@gmail.com</string>
+			<key>fullName</key>
+			<string>Elena Barrio</string>
+			<key>incomingMailServer</key>
+			<string>imap.gmail.com</string>
+			<key>incomingUseSSL</key>
+			<true/>
+			<key>outgoingMailServer</key>
+			<string>smtp.gmail.com</string>
+			<key>outgoingUseSSL</key>
+			<true/>
+			<key>port</key>
+			<integer>993</integer>
+			<key>principalPath</key>
+			<string>/calendar/dav/elena.a.barrio%40gmail.com/user/</string>
+			<key>principalURL</key>
+			<dict>
+				<key>__url</key>
+				<string>https://calendar.google.com/calendar/dav/elena.a.barrio%40gmail.com/user/</string>
+			</dict>
+			<key>serverAddress</key>
+			<string>google.com</string>
+			<key>useSSL</key>
+			<true/>
+			<key>userName</key>
+			<string>elena.a.barrio@gmail.com</string>
+		</dict>
+	</array>
+	<key>countryCode</key>
+	<string>US</string>
+	<key>version</key>
+	<integer>6</integer>
+</dict>
+</plist>
